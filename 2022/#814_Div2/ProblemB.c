@@ -1,3 +1,4 @@
+/*Problem text: https://codeforces.com/contest/1712/problem/B */
 #include <stdio.h>
 
 int main(void)
